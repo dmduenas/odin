@@ -1,5 +1,24 @@
+* {
+    font-family: serif;
+}
+
+body {
+    max-inline-size: 1200px;
+    margin-inline: auto;
+}
+
+
 h1 {
     font-size: 3rem;
     font-weight: bold;
 }
 
+h2 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    background-color: salmon;
+}
+
+img {
+    border-radius: 15px;
+}
